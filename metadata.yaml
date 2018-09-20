@@ -1,5 +1,8 @@
 _repo: The-Story-of-a-Loaf-of-Bread_52824
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 52824-h/images/cover.jpg
 creator:
   author:
     agent_name: Wood, T. B. (Thomas Barlow)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '47061'
     url: http://www.gutenberg.org/2009/agents/47061
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52824#The-Story-of-a-Loaf-of-Bread
 gutenberg_issued: '2016-08-16'
 gutenberg_type: Text
 identifiers:
