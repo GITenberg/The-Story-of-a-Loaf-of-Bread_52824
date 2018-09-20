@@ -1,0 +1,27 @@
+_repo: The-Story-of-a-Loaf-of-Bread_52824
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wood, T. B. (Thomas Barlow)
+    alias: Wood, Thomas Barlow
+    birthdate: 1869
+    deathdate: 1929
+    gutenberg_agent_id: '47061'
+    url: http://www.gutenberg.org/2009/agents/47061
+description: ''
+gutenberg_issued: '2016-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52824'
+  lccn: '13005541'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wheat'
+- !lcc 'TX'
+- !lcsh 'Bread'
+- GITenberg
+title: The Story of a Loaf of Bread
+url: http://www.gutenberg.org/ebooks/52824
